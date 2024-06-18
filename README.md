@@ -4,7 +4,7 @@
 ## usage
 
 ```blade
-<x-skeleton-loading::index pattern="aaab" />
-<x-skeleton-loading::index pattern="abbb" />
+
+<x-skeleton-loading pattern="abab|abba|aaab" />
 
 ```
