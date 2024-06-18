@@ -1,0 +1,8 @@
+{
+    "name": "joe.szeto/skeleton-loading",
+    "autoload": {
+        "psr-4": {
+            "JoeSzeto\\SkeletonLoading\\": "src/"
+        }
+    }
+}
