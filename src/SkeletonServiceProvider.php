@@ -10,6 +10,7 @@ class SkeletonServiceProvider extends PackageServiceProvider
     public function configurePackage(Package $package): void
     {
         $package->name('skeleton-loading')
+            ->hasViewComponent('', SkeletonLoading::class)
             ->hasViews();
     }
 }
