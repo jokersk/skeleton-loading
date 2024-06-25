@@ -1,5 +1,10 @@
 ## laravel, tailwindcss, skeleton loading
 
+## install
+
+```
+composer require joe.szeto/skeleton-loading
+```
 
 ## usage
 
