@@ -23,6 +23,13 @@ export default {
 
 ```
 
+## Service Provider
+in providers.php ( laravel 11 ), in app.php ( laravel 10 )  add
+```JoeSzeto\SkeletonLoading\SkeletonServiceProvider::class```
+
+
+
+
 ## usage
 
 ```blade
